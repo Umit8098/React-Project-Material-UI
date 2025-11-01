@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Project-Material-UI/static/css/main.c7ec3132.css",
+    "main.js": "/React-Project-Material-UI/static/js/main.147b4ae5.js",
+    "static/media/johnny.png": "/React-Project-Material-UI/static/media/johnny.d9a489ebeee502d83d85.png",
+    "index.html": "/React-Project-Material-UI/index.html",
+    "main.c7ec3132.css.map": "/React-Project-Material-UI/static/css/main.c7ec3132.css.map",
+    "main.147b4ae5.js.map": "/React-Project-Material-UI/static/js/main.147b4ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.147b4ae5.js"
+  ]
+}
