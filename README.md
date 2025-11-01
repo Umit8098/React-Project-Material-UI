@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    <a href="???">
+    <a href="https://umit8098.github.io/React-Project-Material-UI/">
       🖥️ Demo
     </a>
      | 
-    <a href="???">
+    <a href="https://github.com/Umit8098/React-Project-Material-UI.git">
       📂 Repository
     </a>
   </h3>
