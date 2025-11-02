@@ -37,40 +37,34 @@
 
 <div align="center"> 
 
-  <img src="./img/recipe.png" alt="recipe-app" width="700"/>
+  <img src="./img/recipe.png" alt="MUI-Example" width="700"/>
   
   --- 
   
-  <img src="./img/detail.png" alt="recipe-app" width="700"/> 
+  <img src="./img/detail.png" alt="MUI-Example" width="700"/> 
 
   ---
 
 </div>
 
-- React Recipe App, kullanıcıların Edamam API aracılığıyla yemek tariflerini arayabileceği, detaylı besin değerlerini görüntüleyebileceği modern bir tarif uygulamasıdır.
-- Kullanıcı girişi (login), özel sayfa koruması (Private Router) ve dinamik yönlendirme özellikleriyle birlikte geliştirilmiştir.
+- 
 
 ---
 
 ## 📖 Description
 
-- Bu proje, React Router, Styled Components ve Axios kullanılarak oluşturulmuş bir tarif arama uygulamasıdır.
-- Kullanıcılar arama çubuğuna istedikleri yemeği yazarak Edamam API’sinden veri çekebilir, her tarifin detay sayfasında besin değerlerini ve içeriklerini görüntüleyebilirler.
-- Bazı sayfalar (örneğin About ve Detail) yalnızca giriş yaptıktan sonra erişilebilir.
+- 
 
 ---
 
 ## 🚀 Features
 
-- 🌐 API Integration with `https://api.edamam.com/api/recipes/v2`
+- ⚛️ MUI
 - ⚛️ React Router v6 ile client-side routing
 - 🔐 PrivateRouter ile korumalı sayfalar
-- 🌐 Edamam Recipe Search API entegrasyonu
-- 💅 Styled Components ile modern, responsive tasarım
 - 💾 Session Storage ile kullanıcı oturum yönetimi
 - 📱 Mobil uyumlu navbar ve hamburger menü
 - 🚀 Deployed on GitHub Pages
-- 🚀 Netlify üzerinde canlı deploy
   
 ---
 
@@ -107,12 +101,10 @@ src/
 ## 🛠️ Built With
 
 - [⚛️ React](https://react.dev/)  
+- [⚛️ MUI](https://mui.com/)  
 - [🧭 React Router v6](https://reactrouter.com/) 
 - [💅 Styled Components](https://styled-components.com/) 
-- [📦 Axios](https://axios-http.com/) 
-- [🍴 Edamam Recipe API](https://developer.edamam.com/edamam-recipe-api) 
 - [GitHub Pages](https://pages.github.com/) 
-- [Netlify](https://www.netlify.com/) 
 
 ---
 
@@ -122,10 +114,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/), [Nod
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/React-Project-Recipe-App.git
+$ git clone https://github.com/Umit8098/React-Project-Material-UI.git
 
 # Navigate into the project folder
-$ cd React-Project-Recipe-App
+$ cd React-Project-Material-UI
 
 # Install dependencies
 $ yarn  
@@ -151,9 +143,8 @@ $ npm start
 
 - [🎓Clarusway](https://clarusway.com/) – for the training resources
 - [📘React Documentation](https://react.dev/)
+- [⚛️ MUI](https://mui.com/)  
 - [🧭React Router Docs](https://reactrouter.com/en/main/start/overview)
-- [💅 Styled Components](https://styled-components.com/)
-- [🍴 Edamam Recipe API](https://developer.edamam.com/edamam-recipe-api) 
 
 
 ---
